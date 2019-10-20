@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/apple-nav/static/css/main.e727b458.chunk.css",
+    "main.js": "/apple-nav/static/js/main.5f6b36f1.chunk.js",
+    "main.js.map": "/apple-nav/static/js/main.5f6b36f1.chunk.js.map",
+    "runtime-main.js": "/apple-nav/static/js/runtime-main.31b75acd.js",
+    "runtime-main.js.map": "/apple-nav/static/js/runtime-main.31b75acd.js.map",
+    "static/js/2.35dfb238.chunk.js": "/apple-nav/static/js/2.35dfb238.chunk.js",
+    "static/js/2.35dfb238.chunk.js.map": "/apple-nav/static/js/2.35dfb238.chunk.js.map",
+    "index.html": "/apple-nav/index.html",
+    "precache-manifest.e766bc236bcfa5515a4702b7e4aae058.js": "/apple-nav/precache-manifest.e766bc236bcfa5515a4702b7e4aae058.js",
+    "service-worker.js": "/apple-nav/service-worker.js",
+    "static/css/main.e727b458.chunk.css.map": "/apple-nav/static/css/main.e727b458.chunk.css.map",
+    "static/media/home.jpg": "/apple-nav/static/media/home.6151e109.jpg",
+    "static/media/imac.png": "/apple-nav/static/media/imac.2521b06d.png",
+    "static/media/ipad.png": "/apple-nav/static/media/ipad.2aafe0dd.png",
+    "static/media/iphone.png": "/apple-nav/static/media/iphone.efea0e7d.png",
+    "static/media/iwatch.png": "/apple-nav/static/media/iwatch.cb452018.png",
+    "static/media/music.png": "/apple-nav/static/media/music.f07b01e4.png",
+    "static/media/support.png": "/apple-nav/static/media/support.640cded8.png",
+    "static/media/tv.png": "/apple-nav/static/media/tv.2885eda8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31b75acd.js",
+    "static/js/2.35dfb238.chunk.js",
+    "static/css/main.e727b458.chunk.css",
+    "static/js/main.5f6b36f1.chunk.js"
+  ]
+}
