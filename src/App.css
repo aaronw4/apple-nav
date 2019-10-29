@@ -1,22 +1,149 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.navBar {
+  background-color: #313131;
+  padding: 2px 350px;
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+#\/iphone {
+  background-color: black;
+}
+
+#\/tv {
+  background-color: #1E1E1F;
+}
+
+#\/music {
+  background-color: #313131;
+}
+
+.link {
+  text-decoration: none;
+  color: white;  
+}
+
+.link:hover, .active {
+  color: #AFAFAF;
+}
+
+.link2 {
+  text-decoration: none;
+  color: black;  
+}
+
+.link2:hover {
+  color:#0071E3;
+}
+
+.icon {
+  font-size: 22px;
+}
+
+.symbol {
+  padding: 0;
+  margin: 0;
+}
+
+.homeImg {
+  width: 100%;
+}
+
+.subMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 10px 400px;
+  background-color: #F6F6F6
+}
+
+.diplayItems {
+  text-align: center;
+  font-size: 12px;
+}
+
+.diplayItems img {
+  width: 80%;
+}
+
+.diplayItems p {
+  margin-top: 0;
+}
+
+#iphone {
+  background-color: #141415;
+  padding: 10px 450px
+}
+
+#ipad {
+  padding: 10px 480px;
+}
+
+#watch {  
+  padding-top: 0;
+}
+
+#tv {
+  background-color: black;
+  padding: 10px 550px;
+}
+
+#music {
+  padding: 10px 550px;
+}
+
+.iphone, .tv {
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.iphone:hover, .tv:hover {
+  color:#0071E3;
+}
+
+.watch {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80px;
+}
+
+#iPad {
+  width: 150%;
+}
+
+#iMac, #iMac\ Pro, #Compare, #Mac\ Osx, #iPad\ Pro, #iPadOS, #iOS\ 13 {
+  width: 100%;
+}
+
+#Apple\ Card {
+  width: 70%;
+}
+
+#Mac\ mini, #iPhone\ 11\ Pro, #Apple\ TV\ 4K, #Apple\ TV\ HD, #HomePod, #AirPods {
+  width: 60%;
+}
+
+#Accessories, #iPad\ Mini, #iPhone\ 11, #iPhone\ Xr, #Apple\ Watch\ Hermes, #watchOS, #Apple\ TV\ app, 
+#Apple\ Music {
+  width: 50%;
+}
+
+#Apple\ Watch\ Series\ 5, #Apple\ Watch\ Nike, #Apple\ Watch\ Edition, #Apple\ Watch\ Series\ 3, 
+#Music\ Accessories, #iPod\ touch {
+  width: 40%;
+}
+
+#Bands {
+  width: 30%;
+}
+
+#Apple\ Pencil {
+  width: 5%;
+}
+
+#watch #Accessories, #tv #Accessories {
+  width: 80%;
+}
+
+#music #AirPods {
+  width: 70%;
 }
