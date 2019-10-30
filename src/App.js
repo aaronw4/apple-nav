@@ -36,7 +36,7 @@ function App() {
           <NavLink to='#' className='link'><img className='symbol' alt='bag' src='https://www.apple.com/ac/globalnav/4/en_US/images/globalnav/bag/image_large.svg'/></NavLink>
       </nav>
       <Route exact path='/' component={home}/>
-      <Route path='/mac' render={() => {return <Mac items={items.mac}/>}} />
+      <Route path='https://jovial-clarke-6b48a4.netlify.com/mac' render={() => {return <Mac items={items.mac}/>}} />
       <Route path='/ipad' render={() => {return <Ipad items={items.ipad} name='ipad'/>}} />
       <Route path='/iphone' key='4' render={() => {return <Iphone items={items.iphone} name='iphone'/>}} />
       <Route path='/watch' render={() => {return <Watch items={items.watch} name='watch'/>}}/>
