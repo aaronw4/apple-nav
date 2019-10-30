@@ -25,7 +25,7 @@ function App() {
     <div>
       <nav className='navBar' id={window.location.pathname}>
           <NavLink to='/' onClick={refresh}  className='link'><FontAwesomeIcon className='icon' icon={faApple}/></NavLink>
-          <NavLink to='https://jovial-clarke-6b48a4.netlify.com/' onClick={refresh} className='link'>Mac</NavLink>
+          <NavLink to='/mac' onClick={refresh} className='link'>Mac</NavLink>
           <NavLink to='/ipad' onClick={refresh} className='link'>iPad</NavLink>
           <NavLink to='/iphone' onClick={refresh} className='link'>iPhone</NavLink>
           <NavLink to='/watch' onClick={refresh} className='link'>Watch</NavLink>
